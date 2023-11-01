@@ -1,0 +1,23 @@
+body
+{
+   color: violet;
+   background: black;
+}
+
+.heading
+{
+ width: 80%;
+font-size: 22px;
+}
+
+#camera
+{
+border: 2px dashed rgb(20, 226, 20);
+width: 350px;
+height: 300px;
+}
+
+.name_of_objects, #result_object, #result_object_accurracy
+{
+    color: rgb(219, 9, 9);
+}
